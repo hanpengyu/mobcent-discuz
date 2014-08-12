@@ -52,5 +52,6 @@
         </div>
     </div>
     <div style="margin:0 auto;padding-left:100px;width:1000px;margin:100px auto"><a href="../admin.php" target="blank">更多管理请去Discuz!管理中心->应用->安米网手机客户端设置</a></div>
+    <div></div>
 </body>
 </html>
